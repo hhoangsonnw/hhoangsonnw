@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sophomore IT student at HUST  <br><br>🔐 Cybersecurity enthusiast specializing in Digital Forensics  <br>🧪 CTF player focused on practical attack and investigation techniques  <br><br>Interested in understanding real-world threats, from intrusion to incident response  <br><br>IELTS 7.5<br><br>📂 Sharing writeups on challenges I had conquered from various platform
+Sophomore IT student at HUST  <br><br>🔐 Cybersecurity enthusiast specializing in Digital Forensics  <br>🧪 CTF player focused on practical attack and investigation techniques  <br><br>Interested in understanding real-world threats, from intrusion to incident response  <br><br>📂 Sharing writeups on challenges I had conquered from various platform
 
 
 ## 🌐 Socials:
