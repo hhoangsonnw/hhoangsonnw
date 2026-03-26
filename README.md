@@ -1,6 +1,13 @@
-# 💫 About Me:
-Sophomore IT student at HUST  <br><br>🔐 Cybersecurity enthusiast specializing in Digital Forensics  <br>🧪 CTF player focused on practical attack and investigation techniques  <br><br>Interested in understanding real-world threats, from intrusion to incident response  <br><br>📂 Sharing writeups on challenges I had conquered from various platform
+# 💫 About Me
+Sophomore IT student at HUST, a rookie diving deep into the world of cybersecurity.
 
+🔐 Focused on **Digital Forensics & Incident Response** — fascinated by the 
+full attack chain, from initial intrusion all the way to artifact recovery
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/hoang-son-bui-9b9369357) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hoangson30042006@gmail.com) 
+🧪 Active CTF player, focused on forensics 
+and practical investigation techniques
+
+🌱 Currently exploring memory forensics and malware analysis
+
+📂 Sharing writeups on challenges I've solved — documenting what I learn 
+along the way
