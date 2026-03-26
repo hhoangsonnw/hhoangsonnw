@@ -1,13 +1,18 @@
-# 💫 About Me
-Sophomore IT student at HUST, a rookie diving deep into the world of cybersecurity.
+💫 About Me
 
-🔐 Focused on **Digital Forensics & Incident Response** — fascinated by the 
-full attack chain, from initial intrusion all the way to artifact recovery
+I’m a sophomore Information Technology student at Hanoi University of Science and Technology (HUST) with a strong interest in cybersecurity.
 
-🧪 Active CTF player, focused on forensics 
-and practical investigation techniques
+My main focus is Digital Forensics & Incident Response (DFIR) — understanding the full attack lifecycle, from initial intrusion to in-depth artifact analysis and recovery.
 
-🌱 Currently exploring memory forensics and malware analysis
+🔐 Interests
+Digital Forensics
+Incident Response
+Memory Forensics
+Malware Analysis
 
-📂 Sharing writeups on challenges I've solved — documenting what I learn 
-along the way
+🧪 Activities
+Active CTF player, specializing in forensics challenges
+Focused on developing practical investigation and analysis skills
+Continuously exploring real-world attack techniques and defensive strategies
+
+📂This GitHub serves as my learning journal.
