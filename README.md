@@ -75,15 +75,17 @@
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=hhoangsonnw&show_icons=true&theme=dark&bg_color=020617&title_color=3B82F6&icon_color=0F766E&text_color=CBD5E1&border_color=1E293B&hide_border=false"
-  alt="GitHub Stats"
-  height="160"
-/>
-&nbsp;
-<img
-  src="https://github-readme-streak-stats.herokuapp.com?user=hhoangsonnw&theme=dark&background=020617&ring=3B82F6&fire=0F766E&currStreakLabel=CBD5E1&border=1E293B"
+  src="https://streak-stats.demolab.com?user=hhoangsonnw&theme=dark&background=020617&ring=3B82F6&fire=0F766E&currStreakLabel=CBD5E1&border=1E293B&date_format=M%20j%5B%2C%20Y%5D"
   alt="GitHub Streak"
-  height="160"
+  height="165"
+/>
+
+<br/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhoangsonnw&layout=compact&theme=dark&bg_color=020617&title_color=3B82F6&text_color=CBD5E1&border_color=1E293B&hide_border=false&langs_count=6"
+  alt="Top Languages"
+  height="130"
 />
 
 </div>
