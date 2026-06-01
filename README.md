@@ -19,7 +19,7 @@
 - Sophomore IT student at **HUST**, building a deep focus on **DFIR** — tracing the full attack lifecycle from intrusion through artifact analysis and recovery.
 - I work with forensic artifacts from memory, network traffic, endpoints, logs, and suspicious files.
 - I care about evidence-driven analysis, clean reporting, repeatable workflows, and practical detection engineering.
-- Continuously improving through CTF challenges (HackTheBox, CyberDefenders) and various online competitions
+- Continuously improving through CTF challenges (HackTheBox, CyberDefenders) and various online competitions.
 
 ---
 
@@ -64,9 +64,9 @@
 
 ## Current Activities
 
-- Forensic writeups that document the evidence, timeline, impact, and conclusion clearly.
-- CTF solutions and investigation walkthroughs for HackTheBox and CyberDefenders as well as various CTF challenges from different platforms and competition.
-- Building Custom tools that facilitates
+- Writing forensic investigation writeups that document the evidence, timeline, impact, and conclusion clearly.
+- Publishing CTF solutions and investigation walkthroughs for HackTheBox, CyberDefenders, and various online competitions.
+- Building custom tools that facilitate forensic triage, evidence parsing, and detection workflow automation.
 
 ---
 
@@ -83,14 +83,21 @@
 <br/>
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhoangsonnw&layout=compact&theme=dark&bg_color=020617&title_color=3B82F6&text_color=CBD5E1&border_color=1E293B&hide_border=false&langs_count=6"
-  alt="Top Languages"
-  height="130"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=hhoangsonnw&bg_color=020617&color=CBD5E1&line=1D4ED8&point=0F766E&area=true&hide_border=false&area_color=1D4ED820"
+  alt="Contribution Graph"
+  width="95%"
 />
 
 </div>
 
 ---
+
+## Working Style
+
+```text
+Preserve evidence. Follow the artifacts. Explain the finding. Improve the defense.
+```
+
 <div align="center">
 
 <img
