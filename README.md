@@ -91,12 +91,6 @@
 
 ---
 
-## Working Style
-
-```text
-Preserve evidence. Follow the artifacts. Explain the finding. Improve the defense.
-```
-
 <div align="center">
 
 <img
