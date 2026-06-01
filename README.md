@@ -19,7 +19,7 @@
 - Sophomore IT student at **HUST**, building a deep focus on **DFIR** — tracing the full attack lifecycle from intrusion through artifact analysis and recovery.
 - I work with forensic artifacts from memory, network traffic, endpoints, logs, and suspicious files.
 - I care about evidence-driven analysis, clean reporting, repeatable workflows, and practical detection engineering.
-- Continuously improving through CTF challenges (HackTheBox, CyberDefenders), malware triage, packet analysis, and blue team labs.
+- Continuously improving through CTF challenges (HackTheBox, CyberDefenders) and various online competitions
 
 ---
 
@@ -39,15 +39,12 @@
 <p>
   <img src="https://img.shields.io/badge/Volatility-111827?style=for-the-badge" alt="Volatility" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Zeek-0F766E?style=for-the-badge" alt="Zeek" />
-  <img src="https://img.shields.io/badge/Suricata-B91C1C?style=for-the-badge" alt="Suricata" />
   <img src="https://img.shields.io/badge/YARA-7F1D1D?style=for-the-badge" alt="YARA" />
   <img src="https://img.shields.io/badge/IDA%20Pro-4B5563?style=for-the-badge" alt="IDA Pro" />
   <img src="https://img.shields.io/badge/Ghidra-D97706?style=for-the-badge" alt="Ghidra" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111" alt="Linux" />
   <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 </div>
@@ -59,18 +56,17 @@
 | Area | What I Work On | Typical Artifacts |
 | --- | --- | --- |
 | **Memory Forensics** | Process analysis, suspicious injection, persistence, credential traces | RAM images, process trees, handles, DLLs, Registry Hives |
-| **Network Forensics** | Packet inspection, traffic reconstruction, C2 indicators, anomaly detection | PCAPs, TCP streams, HTTP/TLS traffic, C2 detections, Zeek logs, Suricata alerts |
+| **Network Forensics** | Packet inspection, traffic reconstruction, C2 indicators, anomaly detection | PCAPs, TCP streams, HTTP/TLS traffic, C2 detections |
 | **Malware Analysis** | Static and dynamic triage, behavior notes, indicators, basic reverse engineering | Strings, imports, IDA/Ghidra disassembly, stack calls, sandbox results, registry changes |
 | **Blue Team** | Detection logic, log review, alert investigation, incident documentation | SIEM events, Windows event logs, endpoint telemetry, IOCs |
 
 ---
 
-## What I Am Building
+## Current Activities
 
 - Forensic writeups that document the evidence, timeline, impact, and conclusion clearly.
-- CTF solutions and investigation walkthroughs for HackTheBox and CyberDefenders challenges.
-- Custom tools like [C2Detector](https://github.com/hhoangsonnw/C2Detector) and [NTFS-Analyzer](https://github.com/hhoangsonnw/NTFS-Analyzer) to support hands-on analysis.
-- A portfolio that shows the **reasoning process** behind each investigation — not just the final answer.
+- CTF solutions and investigation walkthroughs for HackTheBox and CyberDefenders as well as various CTF challenges from different platforms and competition.
+- Building Custom tools that facilitates
 
 ---
 
@@ -93,13 +89,6 @@
 </div>
 
 ---
-
-## Working Style
-
-```text
-Preserve evidence. Follow the artifacts. Explain the finding. Improve the defense.
-```
-
 <div align="center">
 
 <img
