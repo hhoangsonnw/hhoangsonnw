@@ -32,7 +32,6 @@
   <img src="https://img.shields.io/badge/Memory%20Forensics-1D4ED8?style=for-the-badge" alt="Memory Forensics" />
   <img src="https://img.shields.io/badge/Network%20Forensics-0F766E?style=for-the-badge" alt="Network Forensics" />
   <img src="https://img.shields.io/badge/Malware%20Analysis-991B1B?style=for-the-badge" alt="Malware Analysis" />
-  <img src="https://img.shields.io/badge/Blue%20Team-2563EB?style=for-the-badge" alt="Blue Team" />
   <img src="https://img.shields.io/badge/Incident%20Response-374151?style=for-the-badge" alt="Incident Response" />
 </p>
 
