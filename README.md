@@ -67,30 +67,6 @@
 - Publishing CTF solutions and investigation walkthroughs for HackTheBox, CyberDefenders, and various online competitions.
 - Building custom tools that facilitate forensic triage, evidence parsing, and detection workflow automation.
 
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=hhoangsonnw&theme=dark&background=020617&ring=3B82F6&fire=0F766E&currStreakLabel=CBD5E1&border=1E293B&date_format=M%20j%5B%2C%20Y%5D"
-  alt="GitHub Streak"
-  height="165"
-/>
-
-<br/>
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=hhoangsonnw&bg_color=020617&color=CBD5E1&line=1D4ED8&point=0F766E&area=true&hide_border=false&area_color=1D4ED820"
-  alt="Contribution Graph"
-  width="95%"
-/>
-
-</div>
-
-<div align="center">
-
 <img
   src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0F766E,55:1D4ED8,100:020617"
   alt="footer"
